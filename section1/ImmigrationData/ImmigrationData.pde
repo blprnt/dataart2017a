@@ -40,10 +40,7 @@ void loadData() {
 }
 
 String cleanDashes(String input) {
-  println(input);
   String[] splits = input.split(" - ");
-  println(splits.length);
   String output = splits[splits.length - 1];
-  println(output);
   return(output); 
 }
