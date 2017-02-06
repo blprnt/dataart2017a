@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ N151ZG ✈ 30-Sep-2015  ✈ KFAY - KFAY</name>
+    <Placemark>
+        <name>KFAY Airport</name>
+        <description><![CDATA[Fayetteville Rgnl <br> Fayetteville, NC<br><br><a href='http://flightaware.com/live/airport/KFAY'>KFAY airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KFAY'>KFAY airport information</a>]]></description>
+        <Point>
+            <coordinates>-78.880277800000002,34.991222200000003,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KFAY Airport</name>
+        <description><![CDATA[Fayetteville Rgnl <br> Fayetteville, NC<br><br><a href='http://flightaware.com/live/airport/KFAY'>KFAY airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KFAY'>KFAY airport information</a>]]></description>
+        <Point>
+            <coordinates>-78.880277800000002,34.991222200000003,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>N151ZG</name>
+        <description>KFAY - KFAY</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2015-09-30T16:57:07</when>
+            <when>2015-09-30T16:58:11</when>
+            <when>2015-09-30T16:59:12</when>
+            <when>2015-09-30T17:00:16</when>
+            <when>2015-09-30T17:01:16</when>
+            <when>2015-09-30T17:02:20</when>
+            <when>2015-09-30T17:03:20</when>
+            <when>2015-09-30T17:04:24</when>
+            <when>2015-09-30T17:05:25</when>
+            <when>2015-09-30T17:06:29</when>
+            <when>2015-09-30T17:06:53</when>
+            <when>2015-09-30T17:07:30</when>
+            <when>2015-09-30T17:08:34</when>
+            <when>2015-09-30T17:09:35</when>
+            <when>2015-09-30T17:10:36</when>
+            <when>2015-09-30T17:11:18</when>
+            <when>2015-09-30T17:11:40</when>
+            <when>2015-09-30T17:12:43</when>
+            <when>2015-09-30T17:13:44</when>
+            <when>2015-09-30T17:14:45</when>
+            <gx:coord>-78.83722 34.96722 427</gx:coord>
+            <gx:coord>-78.85250 34.94389 549</gx:coord>
+            <gx:coord>-78.86945 34.91694 701</gx:coord>
+            <gx:coord>-78.88306 34.89250 853</gx:coord>
+            <gx:coord>-78.90028 34.86722 1006</gx:coord>
+            <gx:coord>-78.91417 34.84278 1158</gx:coord>
+            <gx:coord>-78.93000 34.81833 1311</gx:coord>
+            <gx:coord>-78.94361 34.79556 1433</gx:coord>
+            <gx:coord>-78.95944 34.77083 1585</gx:coord>
+            <gx:coord>-78.97361 34.74694 1737</gx:coord>
+            <gx:coord>-78.98083 34.73528 1798</gx:coord>
+            <gx:coord>-78.98972 34.72167 1829</gx:coord>
+            <gx:coord>-79.00555 34.69584 1829</gx:coord>
+            <gx:coord>-79.02222 34.66889 1829</gx:coord>
+            <gx:coord>-79.03639 34.63778 1829</gx:coord>
+            <gx:coord>-79.03222 34.61666 1829</gx:coord>
+            <gx:coord>-79.02528 34.60917 1829</gx:coord>
+            <gx:coord>-78.98278 34.60333 1859</gx:coord>
+            <gx:coord>-78.95972 34.63167 1829</gx:coord>
+            <gx:coord>-78.97806 34.66333 1829</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>http://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>
