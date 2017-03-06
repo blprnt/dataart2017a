@@ -7,9 +7,9 @@ String[] sentences;
 void setup() {
   size(1280,720,P3D);
   smooth();
-  loadText(dataPath + "/bible.txt");
-  ArrayList<String> results = findAndSaveWord(sentences, "god");
-  annotateSentences(results, "godannotated.txt");
+  loadText(dataPath + "/mobydick.txt");
+  ArrayList<String> results = findAndSaveWord(sentences, "whale");
+  annotateSentences(results, "whaleannotated.txt");
 }
 
 void draw() {
@@ -25,7 +25,7 @@ void annotateSentences(ArrayList<String> sentences, String fileName) {
    String phonemes = RiTa.getPhonemes(s);
    //Get stressing pattern
    String stresses = RiTa.getStresses(s);
-   writer.println(s + "," + join(pos,"-") + "," + phonemes + "," + stresses);
+   writer.println(s + TAB + join(pos,"-") + TAB + phonemes + TAB + stresses);
   }
   
   writer.flush();
