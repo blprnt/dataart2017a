@@ -10,11 +10,9 @@ Don’t you already have a clear idea what it’s about?
 
 1) Lee Thayer, Deconstructing Information - http://www.stat.ucla.edu/~cocteau/stat202a/readings/thayer.pdf
 
-2) Stanford Literary lab, Quantitative Formalism: An Experiment - http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf
+2) Jacob Harris, Consider the Boolean - https://source.opennews.org/articles/consider-boolean/
 
-3) Jacob Harris - Word Clouds Considered Harmful - http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/
-
-4) What is Distant Reading? - http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html?pagewanted=all&_r=0
+3) Thomas Padilla, On Collections as the Data Imperative - http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf
 
 # Technical Resources
 
@@ -24,6 +22,8 @@ NLTK - Python Library for Natural Language Processing (NLP): http://www.nltk.org
 
 Shiffman on generative text: http://shiffman.net/teaching/a2z/generative/
 
+DocNow: http://www.docnow.io/
+
 # Projects shown in class
 
 http://www.one-tab.com/page/OF3LIeSTT8KgDBwc80FAMA
@@ -31,3 +31,11 @@ http://www.one-tab.com/page/OF3LIeSTT8KgDBwc80FAMA
 # Videos to watch
 
 Ben Rubin at Eyeo 2013: http://vimeo.com/68948000
+
+From Collections as Data:
+
+http://digitalpreservation.gov/meetings/dcs16.html
+
+- Kate Zwaard
+- Berges Jules
+- Marisa Parham
