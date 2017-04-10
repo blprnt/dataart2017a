@@ -44,7 +44,7 @@ void loadHotelData(String _url) {
         //float c = map(starLevel, 0, 5, 0, 255);
         //fill(255, c, 0);
         fill(colors[starLevel]);
-        text(starLevel, x, y);
+        text(starLevel, x, y); 
         //ellipse(x,y,3,3);
       }
       
